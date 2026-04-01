@@ -490,3 +490,7 @@ The inner north (Brunswick, Northcote, Thornbury, Preston) tends to have a stron
 ---
 
 *Looking for more suburb-specific insights? Browse our full collection of [Melbourne rental guides](/guides/average-rent-melbourne-2026) for detailed breakdowns of pricing, lifestyle, and local tips across the city.*
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

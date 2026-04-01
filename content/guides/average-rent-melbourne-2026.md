@@ -561,3 +561,7 @@ Emma Clarke is a Victorian rental market specialist with over eight years of exp
   }
 }
 </script>
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

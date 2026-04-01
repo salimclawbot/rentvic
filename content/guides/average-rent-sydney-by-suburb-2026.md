@@ -469,3 +469,7 @@ This depends on your priorities and budget. Units are typically 15-25% cheaper t
 ---
 
 *Looking for more rental guidance? Browse our full library of [rental guides](/guides) for tips on applications, inspections, lease negotiations, and tenant rights in NSW.*
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

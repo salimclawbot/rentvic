@@ -43,3 +43,7 @@ Have documents ready before the inspection. In fast-moving rental pockets, the s
 ## Victoria renter takeaway
 
 The best rental decisions come from comparing lifestyle fit with weekly affordability. Use RentBuzz data and tools to narrow your search, benchmark pricing, and focus your applications on suburbs that make sense for your budget.
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

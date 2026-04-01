@@ -68,7 +68,7 @@ schema:
 
 **Winning a rental application in Australia in 2026 requires more than filling out a form. You need a tactical approach combining thorough document preparation, professional inspection behaviour, a compelling cover letter, and timely follow-up to stand out from dozens of competing applicants in a market where vacancy rates remain below two per cent in most capital cities.**
 
-*By Maya Chen | Last updated April 2026*
+*By Maya Chen, Content Writer, RentBuzz | Last updated April 2026*
 
 ![A well-organised rental application folder with documents, ID, and payslips laid out on a desk](/images/articles/win-rental-application-2026-hero.jpg)
 
@@ -451,3 +451,7 @@ Start by reviewing our companion guides on [how to improve your rental applicati
 ---
 
 *Sources: Tenants Victoria (tenantsvic.org.au), Consumer Affairs Victoria (consumer.vic.gov.au), NSW Fair Trading (fairtrading.nsw.gov.au), Residential Tenancies Authority Queensland (rta.qld.gov.au), Domain.com.au rental market reports.*
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

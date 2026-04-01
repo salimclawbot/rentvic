@@ -577,3 +577,7 @@ All median rent figures represent asking rents for two-bedroom units as of Q1 20
 ---
 
 *Maya Chen is a content writer at RentBuzz covering rental affordability and suburb guides across Australia. She has written extensively on Melbourne's rental market and expanded her coverage to Sydney and Brisbane in 2026. Maya holds a Bachelor of Communications from RMIT University.*
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

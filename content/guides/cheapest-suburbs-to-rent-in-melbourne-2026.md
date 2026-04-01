@@ -628,3 +628,7 @@ This guide is updated quarterly. Data in this edition reflects market conditions
 ---
 
 *Looking for more rental guidance? Explore our [average rent in Melbourne 2026](/guides/average-rent-melbourne-2026) overview or browse [affordable rental suburbs in Melbourne's west](/guides/affordable-rental-suburbs-in-melbourne-s-west) for a deeper dive into the western corridor.*
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.

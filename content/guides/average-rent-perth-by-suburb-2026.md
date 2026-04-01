@@ -422,3 +422,7 @@ Most market analysts expect Perth rents to continue growing through 2026 and int
 4. SQM Research — Residential Vacancy Rates, Perth Metropolitan Area, March 2026. SQM Research Pty Ltd.
 5. Government of Western Australia, Department of Communities — Housing Affordability Snapshot, 2025-26. Government of Western Australia.
 6. Australian Bureau of Statistics — National, State and Territory Population, September 2025. ABS Cat. No. 3101.0.
+
+## About the Author
+
+**Maya Chen**, Content Writer, RentBuzz — Maya is a rental market researcher covering Australian property trends, suburb guides, and renter rights. She has analysed rental data across Melbourne, Sydney, Brisbane, and Perth.
