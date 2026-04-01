@@ -18,7 +18,11 @@ faq:
 
 Affordable rental suburbs in Melbourne's west is most useful when the market moves quickly and renters need a repeatable way to compare options. This guide focuses on Victoria-specific decisions so you can move from browsing to inspection-ready planning faster.
 
+![Affordable housing options on a residential street in Melbourne's western suburbs](/images/articles/affordable-housing-melbourne-west.jpg)
+
 ## What to check first
+
+![Footscray street scene with shops and cafes in Melbourne's west](/images/articles/footscray-street-melbourne-west.jpg)
 
 - Confirm your weekly budget before you start shortlisting listings.
 - Compare asking rent with suburb medians to spot outliers.
@@ -27,6 +31,8 @@ Affordable rental suburbs in Melbourne's west is most useful when the market mov
 ## Practical renter strategy
 
 When you are weighing several suburbs, treat transport, walkability, and total move-in cost as one package rather than separate factors. A property can look cheaper on paper but cost more once commute time, parking, bond, and setup expenses are included.
+
+![Sunshine suburb street with residential properties in Melbourne's west](/images/articles/sunshine-melbourne-suburb-street.jpg)
 
 ### Build a short list
 
@@ -43,6 +49,10 @@ Have documents ready before the inspection. In fast-moving rental pockets, the s
 ## Victoria renter takeaway
 
 The best rental decisions come from comparing lifestyle fit with weekly affordability. Use RentBuzz data and tools to narrow your search, benchmark pricing, and focus your applications on suburbs that make sense for your budget.
+
+![Rental homes along a residential street in Werribee](/images/articles/werribee-rental-homes-street.jpg)
+
+![Streetscape of Melbourne's western suburbs rental properties](/images/articles/western-suburbs-melbourne-rental.jpg)
 
 ## About the Author
 

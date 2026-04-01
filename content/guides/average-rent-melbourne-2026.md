@@ -40,6 +40,8 @@ category: "rental-guide"
 
 Before diving into specific suburbs, it helps to understand where the Melbourne market sits in early 2026. The numbers tell a story of persistent growth tempered by the first signs of a slowdown.
 
+![Melbourne rent price trends chart showing median weekly rents across suburbs in 2026](/images/articles/rent-price-chart-melbourne.jpg)
+
 ### Key Figures at a Glance
 
 The metropolitan Melbourne median weekly rent reached $520 across all dwelling types in Q4 2025, according to the Department of Families, Fairness and Housing (DFFH) quarterly rental report. This represents a 6.1 per cent increase over the previous year.
@@ -79,6 +81,8 @@ Melbourne remains more affordable than Sydney, where the metro median reached $6
 
 Melbourne's CBD stretches from Flinders Street in the south to Victoria Street in the north, bounded by Spring Street to the east and Spencer Street to the west. It contains the densest concentration of apartment towers in Australia.
 
+![Melbourne CBD skyline with high-rise apartment towers](/images/articles/melbourne-cbd-skyline-apartments.jpg)
+
 ### 1-Bedroom Apartments: $550–$650/week
 
 The median one-bedroom CBD apartment now rents for $595 per week, a figure that has climbed steadily since the post-COVID trough of $350 in early 2022. Studios sit slightly lower at $480 to $530 per week depending on size and building quality.
@@ -106,6 +110,8 @@ The CBD also has the highest rental turnover in Melbourne. The average tenancy l
 ## Inner Suburb Rental Prices
 
 Melbourne's inner suburbs — roughly those within 5 to 10 kilometres of the CBD — are the most sought-after rental locations in the city. They offer walkability, nightlife, cultural amenities, and short commutes, all at a premium.
+
+![Modern apartment interior in an inner Melbourne suburb](/images/articles/melbourne-apartment-interior-modern.jpg)
 
 ### Fitzroy — The Creative Quarter
 
@@ -182,6 +188,8 @@ Brunswick remains slightly more affordable than suburbs like Fitzroy and South Y
 ## Middle Ring Rental Prices
 
 The middle ring — suburbs 10 to 20 kilometres from the CBD — represents the sweet spot for many Melbourne renters. Prices are notably lower than the inner suburbs, while commute times remain manageable and local amenities are solid.
+
+![Tram travelling along a suburban Melbourne street in the middle ring](/images/articles/melbourne-tram-suburban-street-2026.jpg)
 
 ### Box Hill — The Eastern Hub
 
@@ -409,6 +417,8 @@ For renters, this means the worst of the crisis is likely behind us. But afforda
 ## How to Find the Best Rental Value in Melbourne
 
 Understanding average rents is useful, but finding a property below the median requires strategy. Here are practical approaches for 2026.
+
+![Renter reviewing Melbourne rental affordability data on a laptop](/images/articles/rental-affordability-review-laptop.jpg)
 
 ### Target Suburbs at the Edge of Gentrification
 

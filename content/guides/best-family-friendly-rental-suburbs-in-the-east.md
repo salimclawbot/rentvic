@@ -18,7 +18,11 @@ faq:
 
 Best family-friendly rental suburbs in the east is most useful when the market moves quickly and renters need a repeatable way to compare options. This guide focuses on Victoria-specific decisions so you can move from browsing to inspection-ready planning faster.
 
+![Family home available for rent in Melbourne's eastern suburbs](/images/articles/family-home-rent-melbourne-east.jpg)
+
 ## What to check first
+
+![Local park with playground in Melbourne's eastern suburbs](/images/articles/family-park-melbourne-east.jpg)
 
 - Confirm your weekly budget before you start shortlisting listings.
 - Compare asking rent with suburb medians to spot outliers.
@@ -27,6 +31,8 @@ Best family-friendly rental suburbs in the east is most useful when the market m
 ## Practical renter strategy
 
 When you are weighing several suburbs, treat transport, walkability, and total move-in cost as one package rather than separate factors. A property can look cheaper on paper but cost more once commute time, parking, bond, and setup expenses are included.
+
+![Leafy family-friendly suburb street in Melbourne's east](/images/articles/family-suburb-melbourne-east.jpg)
 
 ### Build a short list
 
@@ -43,6 +49,10 @@ Have documents ready before the inspection. In fast-moving rental pockets, the s
 ## Victoria renter takeaway
 
 The best rental decisions come from comparing lifestyle fit with weekly affordability. Use RentBuzz data and tools to narrow your search, benchmark pricing, and focus your applications on suburbs that make sense for your budget.
+
+![Kids playing in a suburban park in Melbourne's east](/images/articles/kids-playing-suburb-park-east.jpg)
+
+![Quiet family-friendly neighbourhood street with houses in Melbourne's east](/images/articles/family-friendly-neighbourhood-street.jpg)
 
 ## About the Author
 
